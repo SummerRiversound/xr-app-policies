@@ -15,7 +15,7 @@ A sheet-music viewer for Android XR glasses: a PDF score in front of you, turned
 
 - Android XR 기기용입니다. 화면 글자는 한국어입니다. / For Android XR devices. The interface is in Korean.
 - PDF 악보만 엽니다. 연 파일은 앱 안에 복사되어 기기 안에만 있습니다. / Opens PDF scores only; an opened file is copied into the app and stays on the device.
-- 계정·광고·인앱 결제가 없고, 인터넷을 쓰지 않습니다. / No account, ads or in-app purchases; no internet use.
+- 계정·광고·인앱 결제가 없고, 앱 자체는 인터넷을 쓰지 않으며 개발자는 정보를 수집하지 않습니다(포함된 Google ARCore는 Google 개인정보처리방침에 따라 진단 정보 등을 Google로 보냅니다). / No account, ads or in-app purchases; the app itself does not use the internet and the developer collects no data (the bundled Google ARCore sends diagnostics and similar data to Google under the Google Privacy Policy).
 - 고개로 넘기기는 실험 기능이며 기본으로 꺼져 있습니다. / Head-turn page turning is experimental and off by default.
 
 최종 수정 / Last updated: 2026-11-22
